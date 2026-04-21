@@ -1,4 +1,4 @@
-# DeepView Trading Terminal
+# DeepView Chart Trading
 
 <p align="center">
   <img src="https://img.shields.io/badge/React-18-61DAFB?logo=react&logoColor=white" alt="React 18">
@@ -16,6 +16,8 @@
 
 ## Overview
 
+<img width="1920" height="929" alt="6fe33ebe-8c3f-485a-87b4-22f361887b1c" src="https://github.com/user-attachments/assets/a97929a6-ee0f-4da8-bedd-d4f39e9ae9a3" />
+
 DeepView is a Bloomberg/TradingView-inspired trading terminal built for crypto traders. It combines professional-grade charting with an intuitive interface, supporting both demo paper trading and live Binance API trading.
 
 ### Key Highlights
@@ -32,6 +34,7 @@ DeepView is a Bloomberg/TradingView-inspired trading terminal built for crypto t
 ## Features
 
 ### 📊 Charting & Analysis
+<img width="1920" height="929" alt="4067ad72-7e14-4373-9cea-aa3e805d78c1" src="https://github.com/user-attachments/assets/85e37c79-8980-42dc-93cf-08d453f04bf1" />
 
 | Feature | Description |
 |---------|-------------|
@@ -53,6 +56,7 @@ DeepView is a Bloomberg/TradingView-inspired trading terminal built for crypto t
 | **Whale Detection** | Alerts for large orders (>10K USDT or 1 BTC) |
 
 ### 💰 Trading
+<img width="1920" height="929" alt="d8ae3b68-4510-40a3-a330-de37d9674573" src="https://github.com/user-attachments/assets/9329bf06-c9ae-4987-929f-f75273e8e5af" />
 
 | Feature | Description |
 |---------|-------------|
@@ -340,10 +344,4 @@ Trading cryptocurrencies carries significant risk. DeepView is provided for educ
 
 <p align="center">
   <strong>Built with ❤️ for traders by traders</strong>
-</p>
-
-<p align="center">
-  <a href="https://github.com/yourusername/deepview">GitHub</a> •
-  <a href="https://deepview.vercel.app">Live Demo</a> •
-  <a href="https://twitter.com/deepview">Twitter</a>
 </p>
