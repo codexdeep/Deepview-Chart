@@ -18,7 +18,7 @@
 
 <img width="1920" height="929" alt="6fe33ebe-8c3f-485a-87b4-22f361887b1c" src="https://github.com/user-attachments/assets/a97929a6-ee0f-4da8-bedd-d4f39e9ae9a3" />
 
-DeepView is a Bloomberg/TradingView-inspired trading terminal built for crypto traders. It combines professional-grade charting with an intuitive interface, supporting both demo paper trading and live Binance API trading.
+DeepView Chart is part of the DeepView trading terminal, a TradingView-inspired terminal built for crypto traders. It combines professional-grade charting with an intuitive interface, supporting both demo paper trading and live Binance API trading.
 
 ### Key Highlights
 
